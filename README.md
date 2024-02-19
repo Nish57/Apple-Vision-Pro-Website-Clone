@@ -1,7 +1,7 @@
 # Apple Vision Pro Website Clone
 ![image](https://github.com/Nish57/Clone-Website-Apple-Vision-Pro/assets/105223628/067b6198-9a7b-4024-8a30-fad40febd3c6)
 
-Live Link: [https://nish57.github.io/Clone-Website-Apple-Vision-Pro/]
+Live Link: [https://nish57.github.io/Apple-Vision-Pro-Website-Clone/]
 
 This project is a responsive clone of the Apple Vision Pro website, showcasing a commitment to excellence in frontend development. The clone is crafted using HTML, CSS, and JavaScript to ensure an optimal user interface across various devices.
 
